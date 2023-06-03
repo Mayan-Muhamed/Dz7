@@ -1,0 +1,20 @@
+.block{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    border: 1px solid;
+    align-items: center;
+    background-color: black;
+}
+.block_1 {
+    margin-top: 50px;
+    margin-left: 80px;
+}
+h2,h3, span {
+    color: white;
+}
+button {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
